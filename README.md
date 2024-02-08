@@ -13,3 +13,11 @@
 "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos" **Alan Kay** Programador
 
 "Pienso que hay mercado en el mundo como para unos cinco ordenadores" **Thomas J. Watson** Presidente de la Junta Directiva de IBM, sobre 1948
+
+"La computación es una ciencia joven; no conocemos aún las reglas." - Alan Kay
+
+"El software es como el sexo; mejor si es gratis." - Linus Torvalds
+
+"Los ordenadores son inútiles. Sólo pueden darte respuestas." - Pablo Picasso
+
+"La programación es como escribir un libro; de hecho, debería ser un libro. De lo contrario, es un programa mal escrito." - Bill Gates
